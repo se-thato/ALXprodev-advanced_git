@@ -1,1 +1,1 @@
-echo "Login Feature Coming soon" > login-page/README.md
+echo "Login Feature Coming soon" - login-page/README.md
