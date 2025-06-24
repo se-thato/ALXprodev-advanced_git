@@ -1,1 +1,1 @@
-echo "feature coming soon"
+echo "feature coming soon" > signup-page/README.md
