@@ -1,1 +1,1 @@
-echo "feature coming soon"
+cho "data requirements: email, firstName, lastName, profilePic"
